@@ -8,7 +8,6 @@ let courses = [
     {id: 2, name: "javascript"},
     {id: 3, name: "python"}
 ];
-
 // Logger middleware function
 //return : method, ip, hostname, date
 function logger(req, res, next) {
